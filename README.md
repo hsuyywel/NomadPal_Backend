@@ -511,7 +511,6 @@ NODE_ENV=development LOG_LEVEL=debug npm run dev
 - **GraphQL API**: Alternative to REST endpoints
 - **Real-time Updates**: WebSocket implementation
 - **Advanced Analytics**: User behavior tracking
-- **Multi-language Support**: Internationalization
 - **Advanced Search**: Elasticsearch integration
 - **File Management**: Cloud storage integration
 
