@@ -485,7 +485,6 @@ docker-compose up -d
 ## 🆘 Support & Troubleshooting
 
 ### Common Issues
-- **Database Connection**: Check MongoDB status and connection string
 - **JWT Errors**: Verify JWT secret and token expiration
 - **CORS Issues**: Check CORS configuration and origin settings
 - **Rate Limiting**: Verify rate limit configuration
